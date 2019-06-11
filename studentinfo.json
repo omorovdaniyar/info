@@ -1,0 +1,14 @@
+{
+	"name": "Daniyar",
+	"surname": "Madaminbek uulu",
+	"age": 29,
+	"roles": {
+		"isMentor": false,
+		"isStudent": true
+	},	
+	"status": {
+	    "course graduate"
+		"IT-Academy"
+	}
+}
+
